@@ -5,6 +5,7 @@ Este código es del curso en Udemy "Python para no matematicos: De 0 hasta recon
 El código esta realizado en python con la libreria opencv y numpy (array).
 
 https://github.com/opencv/opencv
+
 https://docs.opencv.org/3.4/d6/d00/tutorial_py_root.html
 
 ## Código ##
